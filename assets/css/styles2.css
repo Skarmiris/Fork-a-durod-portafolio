@@ -1,0 +1,106 @@
+ body{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='1200' preserveAspectRatio='none' viewBox='0 0 1440 1200'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1033%26quot%3b)' fill='none'%3e%3crect width='1440' height='1200' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M985.1368583580343 592.4745211335857L1129.2306277552784 852.4265623632824 1245.088899587731 448.38075173634144z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M28.571%2c707.541C98.599%2c710.516%2c177.355%2c697.674%2c211.411%2c636.413C244.895%2c576.179%2c211.489%2c504.649%2c173.22%2c447.336C139.96%2c397.523%2c88.434%2c364.556%2c28.571%2c362.58C-35.18%2c360.475%2c-100.474%2c382.711%2c-133.625%2c437.206C-167.936%2c493.608%2c-163.173%2c565.332%2c-129.207%2c621.943C-96.213%2c676.934%2c-35.501%2c704.819%2c28.571%2c707.541' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1102.007%2c1120.94C1171.883%2c1123.425%2c1239.158%2c1093.876%2c1278.289%2c1035.931C1322.923%2c969.838%2c1350.596%2c882.685%2c1308.756%2c814.788C1268.14%2c748.876%2c1179.428%2c749.772%2c1102.007%2c749.863C1024.821%2c749.954%2c934.233%2c748.166%2c896.103%2c815.276C858.199%2c881.988%2c903.315%2c960.485%2c946.182%2c1024.121C982.8%2c1078.48%2c1036.506%2c1118.611%2c1102.007%2c1120.94' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1099.0520054255887 873.5062065161152L1178.2959864880327 768.3458918026129 980.9335238865572 702.060077565698z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M-290.75 1031.42 a399.96 399.96 0 1 0 799.92 0 a399.96 399.96 0 1 0 -799.92 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M357.7154714544745 111.42296982979954L112.44062839783575-87.19668182187769 159.09581980279725 356.69781288643827z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1253.602%2c1252.904C1346.455%2c1247.092%2c1423.892%2c1192.787%2c1474.202%2c1114.528C1529.99%2c1027.748%2c1568.695%2c923.896%2c1525.268%2c830.317C1475.312%2c722.669%2c1372.22%2c635.482%2c1253.602%2c639.166C1139.321%2c642.715%2c1064.125%2c745.794%2c1009.671%2c846.33C958.506%2c940.794%2c924.081%2c1053.379%2c979.351%2c1145.502C1033.487%2c1235.734%2c1148.582%2c1259.478%2c1253.602%2c1252.904' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M24.683775291849198 583.0341482166309L240.16770054876054 644.8231694892461 301.95672182137577 429.3392442323348 86.47279656446443 367.5502229597196z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1548.4743347994313 145.8522792259267L1278.8115234510826 83.59571375609954 1216.5549579812555 353.2585251044482 1486.2177693296042 415.5150905742754z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1033'%3e%3crect width='1440' height='1200' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+ h1{  
+  font-family: 'Roboto Slab', serif;
+ }
+
+ h2{  
+  font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ p{
+  font-family: 'Chivo Mono', monospace;
+ }
+
+ .btn-primary {
+color: #1D9AF2;
+background-color: #292D3E;
+border: 1px solid #1D9AF2;
+border-radius: 4px;
+padding: 0 15px;
+cursor: pointer;
+height:32px;
+font-size:14px;
+transition: all 0.2s ease-in-out;
+}
+.btn-primary:hover {
+box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+transform: translateX(-3px);
+}
+
+.border-radius {
+  border-radius: 40px;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------------------*/
+
+ /*NAV ASIDE*/
+.navbar {
+  font-family: 'PT Serif Caption', serif; 
+}
+
+@media (max-width: 767.98px) {
+  .navbar-collapse {
+    display: none;
+  }
+}
+
+/*----------------------------------------------------------------------------------------------------------------------------------*/
+
+/* CARD DEL ASIDE*/
+.card1 {
+  border-radius: 5px;
+  background:teal;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+  transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+  margin-top: 40px;
+  cursor: pointer;
+  
+
+}
+
+.card1:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+
+.card-img-topnav {
+  width: 10rem;
+  height: rem;
+  margin-top: 14px;
+  
+}
+
+/*----------------------------------------------------------------------------------------------------------------------------------*/
+
+/*CARD DE PROYECTOS */
+.card {
+    border-radius: 10px;
+    background: #FFC;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+    padding: 2px 20px 18px 10px;
+    cursor: pointer;
+    margin-top: 1rem;
+  
+  }
+  
+  .card-img-top {
+    width: 36rem;
+    height: 23rem;
+    
+  }
+
+  
+
+
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+  }
+
+/*----------------------------------------------------------------------------------------------------------------------------------*/

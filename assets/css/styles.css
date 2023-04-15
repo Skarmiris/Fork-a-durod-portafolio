@@ -151,17 +151,25 @@
  }
 
 /*----------------------------------------------------------------*/
-/**/
+/*list group de la bienvenida*/
 .list-group  {
-border: solid black;
+  border: solid black;
+  background-color: springgreen;
+  color: deepskyblue;
+  border-radius: 10px; /* Darle esquinas redondeadas */
+  padding: 10px; /* Añadir un poco de espacio interno */
 }
 
-.col-12.col-md-8 {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.list-group-item {
+  font-size: 18px; /* Aumentar el tamaño del texto de los elementos */
+  margin-bottom: 10px; /* Añadir un poco de espacio entre elementos */
 }
 
+.list-group-item:hover {
+  background-color: #dee2e6; /* Cambiar el color de fondo al pasar el cursor */
+  color: #212529; /* Cambiar el color del texto al pasar el cursor */
+  border-color: #dee2e6; /* Cambiar el color del borde al pasar el cursor */
+}
 /*-------forkeos  ------------------------------------------------*/
 
 .accordion-button {
